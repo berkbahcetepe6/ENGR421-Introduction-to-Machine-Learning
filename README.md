@@ -1,4 +1,4 @@
-# Engr421-Introduction-to-Machine-Learning
+# ENGR421-Introduction-to-Machine-Learning
 This course is a broad introduction to machine learning covering regression, classification, clustering, and dimensionality
 reduction methods; supervised and unsupervised models; linear and nonlinear models; parametric and
 nonparametric models; combinations of multiple models; comparisons of multiple models and model
